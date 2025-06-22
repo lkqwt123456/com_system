@@ -1,0 +1,3 @@
+﻿  com_system.cpp
+D:\studyCode\C++\project\com_system\com_system\com_system\com_system.cpp(101): warning C4715: “serchPerson”: 不是所有的控件路径都返回值
+  com_system.vcxproj -> D:\studyCode\C++\project\com_system\com_system\Debug\com_system.exe
